@@ -3,7 +3,7 @@
 
 ---
 
-## 👤 Identitas Mahasiswa
+## 👤 Identitas Mahasiswaa
 
 | Item | Keterangan |
 |------|------------|
