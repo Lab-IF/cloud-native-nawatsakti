@@ -73,6 +73,7 @@ graph LR
 
 | Pertemuan | Topik | Teknologi Utama | Status |
 |:---------:|-------|-----------------|:------:|
+| **00** | [Fullstack Next.js — Fondasi Sebelum Docker](./pertemuan-00) | Next.js, React, CSS, API Routes | 🟢 |
 | **01** | [Introduction to Cloud-Native Principles](./pertemuan-01) | 12-Factor App, Microservices | 🟢 |
 | **02** | [Docker Fundamentals: Images & Containers](./pertemuan-02) | Docker CLI, Images, Containers | 🟢 |
 | **03** | [Dockerfile Best Practices](./pertemuan-03) | Multi-stage builds, Optimization | 🟢 |
